@@ -19,18 +19,18 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/be5b1463-ca9e-411e-b91d-0b47ba29abe0/files/95f30ee7-30dd-4ba6-a577-5535be7df874.jpg"
+          alt="Industrial compressor"
           className="w-full h-full object-cover"
         />
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ОТКРОЙ
+        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 uppercase">
+          Компрессоры
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+          Поршневые · Центробежные · Винтовые — полный обзор типов, принципов работы и области применения
         </p>
       </div>
     </div>
